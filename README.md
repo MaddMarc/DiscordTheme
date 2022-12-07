@@ -1,0 +1,2 @@
+# DiscordTheme
+Custom Discord Theme
